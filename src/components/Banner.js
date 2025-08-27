@@ -148,9 +148,12 @@ const Banner = () => {
       <Title>
         Join the <br /> weirdos club
       </Title>
-      <BtnContainer>
-        <JoinNow>join now</JoinNow>
-      </BtnContainer>
+<BtnContainer>
+  <JoinNow onClick={() => window.location.href = "https://damianodavd.github.io/ecoNityWeb/"}>
+    Lihat Sekarang
+  </JoinNow>
+</BtnContainer>
+
     </Section>
   );
 };
