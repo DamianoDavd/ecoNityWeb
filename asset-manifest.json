@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ecoNityWeb/static/css/main.4de01310.css",
+    "main.js": "/ecoNityWeb/static/js/main.0781b393.js",
+    "static/media/huruf w.png": "/ecoNityWeb/static/media/huruf w.f31a8130b9c8a29f1528.png",
+    "static/media/huruf o.png": "/ecoNityWeb/static/media/huruf o.fd772f26c5620f7a38f9.png",
+    "static/media/smkawal.jpg": "/ecoNityWeb/static/media/smkawal.c05d45cba7f2bd1bab41.jpg",
+    "static/media/huruf c.png": "/ecoNityWeb/static/media/huruf c.161b3c15a1d7c6fc1096.png",
+    "static/media/huruf b.png": "/ecoNityWeb/static/media/huruf b.59de5b7daf197cef7ce3.png",
+    "static/media/huruf y.png": "/ecoNityWeb/static/media/huruf y.09590183e77a39f588f9.png",
+    "static/media/huruf n.png": "/ecoNityWeb/static/media/huruf n.24c1f6288d32df98558a.png",
+    "static/media/huruf t.png": "/ecoNityWeb/static/media/huruf t.3267f51c13045e475dff.png",
+    "static/media/huruf e.png": "/ecoNityWeb/static/media/huruf e.23f8506a9859bd964a31.png",
+    "static/media/huruf i.png": "/ecoNityWeb/static/media/huruf i.8562e88ce0a72a981b61.png",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/ecoNityWeb/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/ecoNityWeb/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/ecoNityWeb/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/ecoNityWeb/static/media/sora-all-400-normal.4e0eb869ce00863294f7.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/ecoNityWeb/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/ecoNityWeb/static/media/sora-latin-400-normal.a12f18b2fa36ee4a1216.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/ecoNityWeb/static/media/sora-latin-ext-400-normal.256bd69d954f04ef5548.woff2",
+    "static/media/Arrow.svg": "/ecoNityWeb/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/ecoNityWeb/index.html",
+    "main.4de01310.css.map": "/ecoNityWeb/static/css/main.4de01310.css.map",
+    "main.0781b393.js.map": "/ecoNityWeb/static/js/main.0781b393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de01310.css",
+    "static/js/main.0781b393.js"
+  ]
+}
